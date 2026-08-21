@@ -8,7 +8,7 @@ It features a multi-page architecture with dedicated sections for an introductio
 
 ## 🚀 Live Demo
 
-[**View Portfolio on Vercel**]()
+[**View Portfolio on Vercel**](https://ram-portfolio-rosy.vercel.app/)
 
 ---
 
@@ -55,7 +55,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1.  Clone the repo
     ```sh
-
+    git clone https://github.com/ramchaudhary2000/ram-portfolio.git
     ```
 2.  Install NPM packages
     ```sh
@@ -98,4 +98,4 @@ src/
 
 ## ✒️ Author
 
-**Shashank Raj**
+**Ram Chaudhary**
