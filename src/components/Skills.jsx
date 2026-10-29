@@ -86,10 +86,10 @@ SkillSection.displayName = "SkillSection";
 
 // --- Static Data (No changes needed) ---
 const SKILLS_SECTIONS = [
-    { icon: <Code className="w-6 h-6" />, title: "Programming Languages", tags: ["C", "JavaScript", "Python", "HTML", "CSS"] },
+    { icon: <Code className="w-6 h-6" />, title: "Programming Languages", tags: ["JavaScript", "Python", "HTML", "CSS"] },
     { icon: <Layers className="w-6 h-6" />, title: "Frameworks & Libraries", tags: ["React", "Tailwind CSS", "SCSS", ] },
-    { icon: <Terminal className="w-6 h-6" />, title: "Tools & Platforms", tags: ["Git", "GitHub", "VS Code", "Linux", "Jupyter Notebook", "Sublime Text"] },
-    { icon: <Sparkles className="w-6 h-6" />, title: "Interests", tags: ["Competitive Programming", "DSA", "Web Development", "Machine Learning"] },
+    { icon: <Terminal className="w-6 h-6" />, title: "Tools & Platforms", tags: ["Git", "GitHub", "Github Actions", "Jenkins (CI/CD Pipelines)", "AWS EC2", "DockerHub", "Kubernetes", "Grafana", "Version Control", "API Integration", "VS Code", "Linux"] },
+    { icon: <Sparkles className="w-6 h-6" />, title: "Interests", tags: ["Competitive Programming", "DevOps", "Web Development", ] },
 ];
 
 
